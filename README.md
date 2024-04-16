@@ -157,6 +157,6 @@ A detailed judging criteria can be found at the following [link](https://docs.go
   </tbody>
 </table>
 
-## 10. Acknolwedgements
+## 10. Acknowledgements
 
 A BIG thanks to the [MLO lab at EPFL](https://www.epfl.ch/labs/mlo/) for technical support and Track #2, and to [Huawei](https://www.huawei.com) for sponsoring 🙏
