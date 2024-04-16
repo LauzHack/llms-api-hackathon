@@ -120,28 +120,32 @@ A detailed judging criteria can be found at the following [link](https://docs.go
     <tr>
       <td align="center" valign="top" width="20%">
         <a href="https://www.linkedin.com/in/martinjaggi?originalSubdomain=ch">
-          <img src="https://raw.githubusercontent.com/marcelmmc/lauzhack/main/photos/Martin.jpg" width="100px" alt="Prof. Martin Jaggi"/>
+          <img src="photos/Martin.jpg" width="100px" alt="Prof. Martin Jaggi"/>
           <br /><sub><b>Prof. Martin Jaggi</b></sub>
         </a>
       </td>
       <td align="center" valign="top" width="20%">
         <a href="https://linkedin.com/in/eric-bezzam?originalSubdomain=ch">
-          <img src="https://raw.githubusercontent.com/marcelmmc/lauzhack/main/photos/Eric.jpg" width="100px" alt="Msc. Eric Bezzam"/>
+          <img src="photos/Eric.jpg" width="100px" alt="Eric Bezzam"/>
           <br /><sub><b>Eric Bezzam</b></sub>
         </a>
       </td>
       <td align="center" valign="top" width="20%">
         <a href="https://www.linkedin.com/in/luca-fusar-bassini-46522a1bb/?locale=en_US">
-          <img src="https://raw.githubusercontent.com/marcelmmc/lauzhack/main/photos/Luca.jpg" width="100px" alt="Luca Fusar Bassini"/>
+          <img src="photos/Luca.jpg" width="100px" alt="Luca Fusar Bassini"/>
           <br /><sub><b>Luca Fusar Bassini</b></sub>
         </a>
       </td>
       <td align="center" valign="top" width="20%">
         <a href="https://www.linkedin.com/in/spneshaei/?originalSubdomain=ir">
-          <img src="https://raw.githubusercontent.com/marcelmmc/lauzhack/main/photos/Seyed%20Parsa%20Neshaei.jpg" width="100px" alt="Seyed Parsa Neshaei"/>
+          <img src="photos/Seyed%20Parsa%20Neshaei.jpg" width="100px" alt="Seyed Parsa Neshaei"/>
           <br /><sub><b>Seyed Parsa Neshaei</b></sub>
         </a>
       </td>
     </tr>
   </tbody>
 </table>
+
+## 10. Acknolwedgements
+
+A BIG thanks to the [MLO lab at EPFL](https://www.epfl.ch/labs/mlo/) for technical support and Track #2, and to [Huawei](https://www.huawei.com) for sponsoring 🙏
