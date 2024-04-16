@@ -2,6 +2,17 @@
 
 Come join us for a fun and innovative hackathon exploring APIs and LLM architecture modifications! Let's build exciting projects together 🎉
 
+[1. General Information](#1-general-information)  
+[2. Themes](#2-themes)  
+[3. Resources](#3-resources)  
+[4. Schedule](#4-schedule)  
+[5. Team Formation](#5-team-formation)  
+[6. Submission Process](#6-submission-process)  
+[7. Communication (Discord)](#7-communication-discord)  
+[8. Evaluation Criteria](#8-evaluation-criteria)  
+[9. Jury](#9-jury)  
+[10. Acknowledgements](#10-acknowledgements)
+
 ## 1. General Information
 
 ### **Date & Time:**
@@ -82,7 +93,7 @@ Real-time information about the event, food service details, and questions relat
 
 ⚠️⚠️ **Use the above link even if you're already on the LauzHack server!** (As this will add you to the private channel for the event)
 
-## 8. Evaluation criteria
+## 8. Evaluation Criteria
 
 Only work done during hackathon will be considered (and should be made explicit) for the project evaluation.
 
