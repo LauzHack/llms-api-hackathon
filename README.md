@@ -47,10 +47,12 @@ To join the event, please register through [Luma](https://lu.ma/lauzhack-llms-ap
 
 2. **LLM Architecture Modifications:**
 - [LLM baselines](https://github.com/epfml/llm-baselines) which **will be presented on Friday**. 
+- Getting started with EPFL clusters; https://github.com/epfml/getting-started
 - Access to compute from Prof. Martin Jaggi's lab provided on-site.
 
 Below are links to complementary resources/tutorials which will NOT be covered during the hackathon:
 - [Gradio](https://www.gradio.app/) for hosting a demo.
+- Serverless endpoints with [together.ai](https://docs.together.ai/docs/inference-python)
 - RAG with LangChain slides/Colab notebooks ([Part 1](https://docs.google.com/presentation/d/1nR8klAPeRB6LRJPLk2XQZ951cg7wYuh0uWxgpPg_J7U/edit#slide=id.g2adef65e407_0_396), [Part 2](https://docs.google.com/presentation/d/1ud51c1bGjXJGXAmOypQCKdZtu_aAoeHdYYGiaESPfdA/edit#slide=id.g2adef65e407_0_396)).
 - (Login required) Short course on using Hugging Face models and Gradio: https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/
 - (Login required) More short courses from DeepLearning.ai (LangChain, RAG, Vector Databases, etc): https://learn.deeplearning.ai/
