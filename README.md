@@ -70,7 +70,7 @@ Below are links to complementary resources/tutorials which will NOT be covered d
     - Spontaneous tutorials based on people's interests.
   - 10:00 PM: End of day. You CANNOT stay overnight, but you can continue working remotely.
   
-**Saturday, April 20:**
+**Saturday, April 20 (only for partipants whose application was approved):** 
   - 10:00 AM: Breakfast (BC410)
   - Till 3:00 PM: Hack, hack, hack!
   - 4:00 PM: Demos
