@@ -43,7 +43,7 @@ Come join us for a fun and innovative hackathon exploring APIs and LLM architect
 
 2. **LLM Architecture Modifications:**
 - [LLM baselines](https://github.com/epfml/llm-baselines) which **will be presented on Friday**. 
-- Getting started with EPFL clusters; https://github.com/epfml/getting-started
+- Getting started with EPFL clusters: https://github.com/epfml/getting-started-lauzhack/
 - Access to compute from Prof. Martin Jaggi's lab provided on-site.
 
 Below are links to complementary resources/tutorials which will NOT be covered during the hackathon:
