@@ -52,6 +52,7 @@ To join the event, please register through [Luma](https://lu.ma/lauzhack-llms-ap
 
 Below are links to complementary resources/tutorials which will NOT be covered during the hackathon:
 - [Gradio](https://www.gradio.app/) for hosting a demo.
+- Example interactive web app with HTML and OpenAI: https://github.com/bitswired/python-web-dev-with-htmx 
 - Serverless endpoints with [together.ai](https://docs.together.ai/docs/inference-python)
 - RAG with LangChain slides/Colab notebooks ([Part 1](https://docs.google.com/presentation/d/1nR8klAPeRB6LRJPLk2XQZ951cg7wYuh0uWxgpPg_J7U/edit#slide=id.g2adef65e407_0_396), [Part 2](https://docs.google.com/presentation/d/1ud51c1bGjXJGXAmOypQCKdZtu_aAoeHdYYGiaESPfdA/edit#slide=id.g2adef65e407_0_396)).
 - (Login required) Short course on using Hugging Face models and Gradio: https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/
@@ -64,7 +65,8 @@ Below are links to complementary resources/tutorials which will NOT be covered d
   - 6:00 PM: Tutorials/Workshops (BC420)
     - Intro to the event
     - Tutorial on making a Telegram bot with GenAI APIs
-    - Tutorial on training LLM baseline
+    - Pizza
+    - (Around 8) Tutorial on training LLM baseline
     - Spontaneous tutorials based on people's interests.
   - 10:00 PM: End of day. You CANNOT stay overnight, but you can continue working remotely.
   
@@ -91,9 +93,7 @@ Submissions to be made to Prof. Martin Jaggi's lab. Due to potentially long trai
 
 ## 7. Communication (Discord)
 
-Real-time information about the event, food service details, and questions related to the challenges will be posted in our personal Discord server (`#hack-apr2024` channel). Please use the following link to join: [![Discord Server](https://dcbadge.vercel.app/api/server/kBfkHqVZft)](https://discord.gg/EEhZyY8W)
-
-⚠️⚠️ **Use the above link even if you're already on the LauzHack server!** (As this will add you to the private channel for the event)
+Real-time information about the event, food service details, and questions related to the challenges will be posted in our personal Discord server (`#hack-apr2024` channel). Please use the link sent to you via Luma (as this will add you to the private channel for the event).
 
 ## 8. Evaluation Criteria
 
