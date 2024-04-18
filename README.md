@@ -69,7 +69,7 @@ Below are links to complementary resources/tutorials which will NOT be covered d
 **Saturday, April 20 (only for partipants whose application was approved):** 
   - 10:00 AM: Breakfast (BC410)
   - Till 3:00 PM: Hack, hack, hack!
-  - 4:00 PM: Demos (for everyone) then prizes 🏆 (for application track)
+  - 3:30 PM: Demos (for everyone) then prizes 🏆 (for application track)
 
 **Aftermath:** 
   - Sunday April 21, midnight: submission deadline for track 2 (training LLMs)
