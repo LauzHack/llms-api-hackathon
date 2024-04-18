@@ -81,7 +81,7 @@ Up to 4 members per team. Declare your team [here](https://docs.google.com/sprea
 
 All projects should be submitted on DevPost (coming soon).
 
-In order to be considered for a prize, **all projects should demo/present (3 minutes) on Saturday afternoon**.
+In order to be considered for a prize, **all projects should demo/present (3 min for API track, and 2 min for LLM track) on Saturday afternoon**.
 
 #### _Particularies for the LLM Architecture Modifications track_
 
