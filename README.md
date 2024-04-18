@@ -90,7 +90,9 @@ In order to be considered for a prize, **all projects should demo/present (3 min
 #### _Particularies for the LLM Architecture Modifications track_
 
 Due to potentially long trainings, submission can be made until **Sunday April 21, 23:59:59**. Teams are still expected to demo/present on Saturday afternoon, but winners for this track will be announced on **Tuesday April 23**.
-Resources: 1) [Getting started guide for GPU cluster](https://github.com/epfml/getting-started-lauzhack), 2) [llm-baselines code](https://github.com/epfml/llm-baselines) to start from. Submission consist in a link to your github repo (see criteria below), to be made to Prof. Martin Jaggi's lab via discord. 
+Resources: 
+1) [Getting started guide for GPU cluster](https://github.com/epfml/getting-started-lauzhack)
+2) [llm-baselines code](https://github.com/epfml/llm-baselines) to start from. Submission consist in a link to your github repo (see criteria below), to be made to Prof. Martin Jaggi's lab via discord. 
 
 ## 7. Communication (Discord)
 
@@ -128,11 +130,10 @@ A detailed judging criteria can be found at the following [link](https://docs.go
 | **TOTAL**                                            | **30**           |
 
 Final submission deadline: Sunday midnight.
-Submitting the link to your github repository. The ReadMe of your repo needs:
-	1) a short description of your idea and approach
-	2) a link to the final model weights of your trained model
-	3) the training script and config so we can reproduce your training (must be easy to run on EPFL cluster)
-we will verify submissions and run to check reproducibility
+Submitting the link to your GitHub repository. The ReadMe of your repo needs:
+1) A short description of your idea and approach
+2) A link to the final model weights of your trained model
+3) The training script and config so we can reproduce your training (must be easy to run on EPFL cluster). We will verify submissions and run to check reproducibility.
 
 ## 9. Jury
 
