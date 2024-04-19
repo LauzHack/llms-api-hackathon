@@ -23,10 +23,6 @@ Come join us for a fun and innovative hackathon exploring APIs and LLM architect
   - [BC Building, 4th floor](https://www.google.com/maps/place/BC+Building+(building+of+the+IC+faculty)/@46.5188791,6.5627602,18z/data=!4m6!3m5!1s0x478c30fcd9c6f5b3:0xd37877e203e479a8!8m2!3d46.518569!4d6.561918!16s%2Fg%2F1pv1l1jcp?entry=ttu) (IC Faculty Building)  
   - Chem. Alan Turing, 1015 Ecublens, Switzerland  
 
-### **Registration:**
-To join the event, please register through [Luma](https://lu.ma/lauzhack-llms-apis).
-
-
 ## 2. Themes
 
 [LauzHack](https://lauzhack.com/) is hosting a mini-hackathon with two exciting tracks:
@@ -47,11 +43,12 @@ To join the event, please register through [Luma](https://lu.ma/lauzhack-llms-ap
 
 2. **LLM Architecture Modifications:**
 - [LLM baselines](https://github.com/epfml/llm-baselines) which **will be presented on Friday**. 
-- Getting started with EPFL clusters; https://github.com/epfml/getting-started
+- Getting started with EPFL clusters: https://github.com/epfml/getting-started-lauzhack/
 - Access to compute from Prof. Martin Jaggi's lab provided on-site.
 
 Below are links to complementary resources/tutorials which will NOT be covered during the hackathon:
 - [Gradio](https://www.gradio.app/) for hosting a demo.
+- Example interactive web app with HTML and OpenAI: https://github.com/bitswired/python-web-dev-with-htmx 
 - Serverless endpoints with [together.ai](https://docs.together.ai/docs/inference-python)
 - RAG with LangChain slides/Colab notebooks ([Part 1](https://docs.google.com/presentation/d/1nR8klAPeRB6LRJPLk2XQZ951cg7wYuh0uWxgpPg_J7U/edit#slide=id.g2adef65e407_0_396), [Part 2](https://docs.google.com/presentation/d/1ud51c1bGjXJGXAmOypQCKdZtu_aAoeHdYYGiaESPfdA/edit#slide=id.g2adef65e407_0_396)).
 - (Login required) Short course on using Hugging Face models and Gradio: https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/
@@ -64,14 +61,19 @@ Below are links to complementary resources/tutorials which will NOT be covered d
   - 6:00 PM: Tutorials/Workshops (BC420)
     - Intro to the event
     - Tutorial on making a Telegram bot with GenAI APIs
-    - Tutorial on training LLM baseline
+    - Pizza
+    - (Around 8) Tutorial on training LLM baseline
     - Spontaneous tutorials based on people's interests.
   - 10:00 PM: End of day. You CANNOT stay overnight, but you can continue working remotely.
   
-**Saturday, April 20:**
+**Saturday, April 20 (only for partipants whose application was approved):** 
   - 10:00 AM: Breakfast (BC410)
   - Till 3:00 PM: Hack, hack, hack!
-  - 4:00 PM: Demos
+  - 3:30 PM: Demos (for everyone) then prizes 🏆 (for application track)
+
+**Aftermath:** 
+  - Sunday April 21, midnight: submission deadline for track 2 (training LLMs)
+  - Tuesday April 23, 4pm: announcement of winners of track 2
 
 😋 We will provide dinner on Friday and (breakfast, lunch) on Saturday.
 
@@ -83,17 +85,18 @@ Up to 4 members per team. Declare your team [here](https://docs.google.com/sprea
 
 All projects should be submitted on DevPost (coming soon).
 
-In order to be considered for a prize, **all projects should demo/present (3 minutes) on Saturday afternoon**.
+In order to be considered for a prize, **all projects should demo/present (3 min for API track, and 2 min for LLM track) on Saturday afternoon**.
 
 #### _Particularies for the LLM Architecture Modifications track_
 
-Submissions to be made to Prof. Martin Jaggi's lab. Due to potentially long trainings, submission can be made until **Sunday April 21, 23:59:59**. Teams are still expected to demo/present on Saturday afternoon, but winners for this track will be announced on **Tuesday April 23**.
+Due to potentially long trainings, submission can be made until **Sunday April 21, 23:59:59**. Teams are still expected to demo/present on Saturday afternoon, but winners for this track will be announced on **Tuesday April 23**.
+Resources: 
+1) [Getting started guide for GPU cluster](https://github.com/epfml/getting-started-lauzhack)
+2) [llm-baselines code](https://github.com/epfml/llm-baselines) to start from. Submission consist in a link to your github repo (see criteria below), to be made to Prof. Martin Jaggi's lab via discord. 
 
 ## 7. Communication (Discord)
 
-Real-time information about the event, food service details, and questions related to the challenges will be posted in our personal Discord server (`#hack-apr2024` channel). Please use the following link to join: [![Discord Server](https://dcbadge.vercel.app/api/server/kBfkHqVZft)](https://discord.gg/EEhZyY8W)
-
-⚠️⚠️ **Use the above link even if you're already on the LauzHack server!** (As this will add you to the private channel for the event)
+Real-time information about the event, food service details, and questions related to the challenges will be posted in our personal Discord server (`#hack-apr2024` channel). Please use the link sent to you via Luma (as this will add you to the private channel for the event).
 
 ## 8. Evaluation Criteria
 
@@ -118,13 +121,19 @@ Only work done during hackathon will be considered (and should be made explicit)
 
 A detailed judging criteria can be found at the following [link](https://docs.google.com/document/d/1VW-y-2CozKQh-x35cimA2p04m-XExTSxgelhDTolVwk/edit).
 
-### **LLM Architecture Modifications (TBC)** 
+### **LLM Training and Architectures Track** 
 
 | Criteria                                           | Allocated points |
 |------------------------------------------------------|------------------|
-| **1. Performance**                                       | **10**               |
-| **2. Novelty**                                        | **5**                |
-| **TOTAL**                                            | **15**           |
+| **1. Performance reached in 3h on 1 GPU**             | 20               |
+| **2. Innovativeness of the approach**                 | 10                |
+| **TOTAL**                                            | **30**           |
+
+Final submission deadline: Sunday midnight.
+Submitting the link to your GitHub repository. The ReadMe of your repo needs:
+1) A short description of your idea and approach
+2) A link to the final model weights of your trained model
+3) The training script and config so we can reproduce your training (must be easy to run on EPFL cluster). We will verify submissions and run to check reproducibility.
 
 ## 9. Jury
 
