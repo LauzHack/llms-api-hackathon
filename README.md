@@ -42,6 +42,7 @@ Come join us for a fun and innovative hackathon exploring APIs and LLM architect
 - Message `Eric (organizer)` on the LauzHack Discord for an OpenAI key!
 
 2. **LLM Architecture Modifications:**
+- [Tutorial for setup](https://docs.google.com/presentation/d/1soBPwgoU0SkEhKjNMcZH2vwbuAWAGt2rLuADtnFlZwg/edit#slide=id.g2cd7ccab6c0_0_0).
 - [LLM baselines](https://github.com/epfml/llm-baselines) which **will be presented on Friday**. 
 - Getting started with EPFL clusters: https://github.com/epfml/getting-started-lauzhack/
 - Access to compute from Prof. Martin Jaggi's lab provided on-site.
