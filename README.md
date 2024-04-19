@@ -29,8 +29,8 @@ Come join us for a fun and innovative hackathon exploring APIs and LLM architect
 
 1. **GenAI Applications:**
   - The use of GenAI APIs and models (OpenAI, Langchain, HuggingFace, etc).
-  - The Telegram bot builder API can be optionally used for a quick-and-dirty user interface.
-  - Build innovative products like an interactive academic publication bot or combine APIs for new applications!
+  - The [Telegram bot builder API](https://github.com/LauzHack/apis-telegram) can be optionally used for a quick-and-dirty user interface, or a web app ([example1](https://www.gradio.app/), [example2](https://github.com/bitswired/python-web-dev-with-htmx)).
+  - Build innovative products by combining APIs for new applications!
 
 2. **LLM Architecture Modifications:**
   - Identify practical tricks to enhance efficiency and accuracy of LLMs (Large Language Models) on a given dataset.
