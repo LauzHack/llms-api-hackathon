@@ -138,6 +138,12 @@ A detailed judging criteria can be found at the following [link](https://docs.go
         </a>
       </td>
       <td align="center" valign="top" width="20%">
+        <a href="https://www.linkedin.com/in/javier-picorel-073a7539/">
+          <img src="photos/Javier.jpg" width="100px" alt="Javier Picorel"/>
+          <br /><sub><b>Javier Picorel</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="20%">
         <a href="https://linkedin.com/in/eric-bezzam?originalSubdomain=ch">
           <img src="photos/Eric.jpg" width="100px" alt="Eric Bezzam"/>
           <br /><sub><b>Eric Bezzam</b></sub>
