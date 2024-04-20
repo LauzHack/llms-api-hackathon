@@ -142,31 +142,38 @@ Submitting the link to your GitHub repository. The ReadMe of your repo needs:
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="20%">
+      <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/martinjaggi?originalSubdomain=ch">
           <img src="photos/Martin.jpg" width="100px" alt="Prof. Martin Jaggi"/>
           <br /><sub><b>Prof. Martin Jaggi</b></sub>
         </a>
       </td>
-      <td align="center" valign="top" width="20%">
+      <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/javier-picorel-073a7539/">
           <img src="photos/Javier.jpg" width="100px" alt="Javier Picorel"/>
           <br /><sub><b>Javier Picorel</b></sub>
         </a>
       </td>
-      <td align="center" valign="top" width="20%">
+      <td align="center" valign="top" width="16%">
+        <a href="https://www.linkedin.com/in/salathe/">
+          <img src="photos/Eric.jpg" width="100px" alt="Marcel Salathe"/>
+          <br /><sub><b>Marcel Salathé</b></sub>
+        </a>
+      </td>
+      </td>
+      <td align="center" valign="top" width="16%">
         <a href="https://linkedin.com/in/eric-bezzam?originalSubdomain=ch">
           <img src="photos/Eric.jpg" width="100px" alt="Eric Bezzam"/>
           <br /><sub><b>Eric Bezzam</b></sub>
         </a>
       </td>
-      <td align="center" valign="top" width="20%">
+      <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/luca-fusar-bassini-46522a1bb/?locale=en_US">
           <img src="photos/Luca.jpg" width="100px" alt="Luca Fusar Bassini"/>
           <br /><sub><b>Luca Fusar Bassini</b></sub>
         </a>
       </td>
-      <td align="center" valign="top" width="20%">
+      <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/spneshaei/?originalSubdomain=ir">
           <img src="photos/Seyed%20Parsa%20Neshaei.jpg" width="100px" alt="Seyed Parsa Neshaei"/>
           <br /><sub><b>Seyed Parsa Neshaei</b></sub>
