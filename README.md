@@ -89,6 +89,10 @@ And make sure your team is up-to-date in the [team formation document](https://d
 
 In order to be considered for a prize, **all projects should demo/present (3 min for API track, and 2 min for LLM track) on Saturday afternoon**.
 
+When submitting your project, in the Additional info step, please select the track that you are competing for (LLM track or App track) as in the attached image.
+<p align="center">
+<img width="155" alt="Screenshot 2024-04-20 at 11 47 33 AM" src="https://github.com/LauzHack/llms-api-hackathon/assets/4757445/77a5812c-78a4-4ceb-807e-018dce0b5d4c">
+</p>
 #### _Particularies for the LLM Architecture Modifications track_
 
 Due to potentially long trainings, submission can be made until **Sunday April 21, 23:59:59**. Teams are still expected to demo/present on Saturday afternoon, but winners for this track will be announced on **Tuesday April 23**.
