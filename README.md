@@ -156,7 +156,7 @@ Submitting the link to your GitHub repository. The ReadMe of your repo needs:
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/salathe/">
-          <img src="photos/Eric.jpg" width="100px" alt="Marcel Salathe"/>
+          <img src="photos/marcel.jpg" width="100px" alt="Marcel Salathe"/>
           <br /><sub><b>Marcel Salathé</b></sub>
         </a>
       </td>
