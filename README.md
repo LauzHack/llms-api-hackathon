@@ -84,7 +84,8 @@ Up to 4 members per team. Declare your team [here](https://docs.google.com/sprea
 
 ## 6. Submission Process
 
-All projects should be submitted on DevPost (coming soon).
+⚠️ All projects should be submitted on [DevPost](https://lauzhack-llms-genai-2024.devpost.com/). 
+And make sure your team is up-to-date in the [team formation document](https://docs.google.com/spreadsheets/d/1-kltAtBRmXvM_HjfXcLKk_qDzaVmV03A6PDqzfMWOaM/edit?usp=sharing).
 
 In order to be considered for a prize, **all projects should demo/present (3 min for API track, and 2 min for LLM track) on Saturday afternoon**.
 
