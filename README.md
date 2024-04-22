@@ -155,14 +155,14 @@ Submitting the link to your GitHub repository. The ReadMe of your repo needs:
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/javier-picorel-073a7539/">
-          <img src="photos/Javier.jpg" width="100px" alt="Javier Picorel"/>
-          <br /><sub><b>Javier Picorel</b></sub>
+          <img src="photos/Javier.jpg" width="100px" alt="Dr. Javier Picorel"/>
+          <br /><sub><b>Dr. Javier Picorel</b></sub>
         </a>
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/salathe/">
-          <img src="photos/marcel.jpg" width="100px" alt="Marcel Salathe"/>
-          <br /><sub><b>Marcel Salathé</b></sub>
+          <img src="photos/marcel.jpg" width="100px" alt="Prof. Marcel Salathe"/>
+          <br /><sub><b>Prof. Marcel Salathé</b></sub>
         </a>
       </td>
       </td>
